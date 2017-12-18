@@ -1,0 +1,1 @@
+webpackHotUpdate(0,{"./assets/scss/app.scss":function(e,s,o){var a=o("./node_modules/css-hot-loader/hotModuleReplacement.js")(e.i,{fileMap:"{fileName}"});e.hot.dispose(a),e.hot.accept(void 0,a)}});
